@@ -1,4 +1,5 @@
-# Exercice 3 : compter les lettres de l'alphabet 
+# Exercice 3 : compter les lettres de l'alphabet
+
 text = "hello world"
 alphabet = 'abcdefghijklmnopqrstuvwxyz'
 

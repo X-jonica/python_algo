@@ -6,7 +6,6 @@ le nombre de voyelles (a, e, i, o, u, y en minuscule).
 Exemple :
 Entrée : bonjour
 Sortie : 3
-
 ---
 """
 def compter_voyelles(chaine):
